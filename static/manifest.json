@@ -1,6 +1,6 @@
 {
-  "name": "Pyxel-web-template",
-  "short_name": "PyxelApp",
+  "name": "Pyxel Caver",
+  "short_name": "Pyxel Caver",
   "description": "This is PyxelApp",
   "icons": [
     {
@@ -11,6 +11,7 @@
   ],
   "start_url": "/index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "scope": "/",
   "theme_color": "#000",
   "background_color": "#000"
